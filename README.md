@@ -1,6 +1,8 @@
 # MatrixSpiral
 Output a Matrix of zeroes that slowly populate 1's in a spiral from the center.
 
+THIS IS OUTDATED. SEE "MATRIXSPIRALPROJECT" FOR CURRENT
+
 TODO:
 Clean up/Modularize Code.
 Work on further improving efficiency.
